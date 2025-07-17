@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "AI Chatbot",
+        "desc": "Active chatbot project",
+        "color": "green",
+        "percent": 80
+    },
+    {
+        "id": 2,
+        "title": "Image Gen",
+        "desc": "Completed image generator",
+        "color": "yellow",
+        "percent": 100
+    }
+]
